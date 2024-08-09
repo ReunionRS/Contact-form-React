@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//ReunionRS.github.io/Contact-form-React/static/css/main.cf89eea4.css",
-    "main.js": "/https//ReunionRS.github.io/Contact-form-React/static/js/main.ef633ac6.js",
-    "static/js/453.8db8e072.chunk.js": "/https//ReunionRS.github.io/Contact-form-React/static/js/453.8db8e072.chunk.js",
-    "index.html": "/https//ReunionRS.github.io/Contact-form-React/index.html",
-    "main.cf89eea4.css.map": "/https//ReunionRS.github.io/Contact-form-React/static/css/main.cf89eea4.css.map",
-    "main.ef633ac6.js.map": "/https//ReunionRS.github.io/Contact-form-React/static/js/main.ef633ac6.js.map",
-    "453.8db8e072.chunk.js.map": "/https//ReunionRS.github.io/Contact-form-React/static/js/453.8db8e072.chunk.js.map"
+    "main.css": "/Contact-form-React/static/css/main.cf89eea4.css",
+    "main.js": "/Contact-form-React/static/js/main.de731dd3.js",
+    "static/js/453.8db8e072.chunk.js": "/Contact-form-React/static/js/453.8db8e072.chunk.js",
+    "index.html": "/Contact-form-React/index.html",
+    "main.cf89eea4.css.map": "/Contact-form-React/static/css/main.cf89eea4.css.map",
+    "main.de731dd3.js.map": "/Contact-form-React/static/js/main.de731dd3.js.map",
+    "453.8db8e072.chunk.js.map": "/Contact-form-React/static/js/453.8db8e072.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf89eea4.css",
-    "static/js/main.ef633ac6.js"
+    "static/js/main.de731dd3.js"
   ]
 }
